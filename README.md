@@ -1,4 +1,4 @@
 # OhjelmointiTA
-Harjoitusrepositorio dokumentointia varten
+Harjoitusrepositorio dokumentointia varten.
 
 Muokattu
