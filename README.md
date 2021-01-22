@@ -3,4 +3,4 @@ Harjoitusrepositorio dokumentointia varten.
 
 Muokattu
 
-Muokattu VSC:lla
+Muokattu VSC:lla, uusi muutos.
