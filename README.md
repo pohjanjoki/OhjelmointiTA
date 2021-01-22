@@ -1,6 +1,6 @@
 # OhjelmointiTA
 Harjoitusrepositorio dokumentointia varten.
 
-Muokattu
+Muokattu VSC:lla, uusi muutos. Kolmas muutos.
 
-Muokattu VSC:lla, uusi muutos.
+Lisättyä tekstiä.
